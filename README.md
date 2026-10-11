@@ -74,9 +74,3 @@ OIBSIP/
 ## Conclusion
 
 The exploratory data analysis provided useful insights into sales trends, customer demographics, product performance, and revenue patterns. These findings can support data-driven decisions related to inventory management, marketing strategies, product promotion, and customer targeting.
-
-
-**Azərbaycanca:** README-ni GitHub repository-nin əsas səhifəsində görünən sənəd kimi düşün. Kimsə repository-ni açanda layihənin **nə olduğu, hansı texnologiyalardan istifadə etdiyin, nə analiz etdiyin, əsas nəticələr və tövsiyələr** birbaşa görünəcək.
-
-Bir şeyi də məsləhət görürəm: `Retail_Sales_EDA.ipynb` adını notebookuna ver və README-də də həmin adı saxla. Beləliklə repository səliqəli görünəcək.
-```
